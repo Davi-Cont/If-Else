@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\Exercicio_10\bin\Debug\Exercicio_10.exe.config
+C:\Users\Usuario\Desktop\Exercicio_10\bin\Debug\Exercicio_10.exe
+C:\Users\Usuario\Desktop\Exercicio_10\bin\Debug\Exercicio_10.pdb
+C:\Users\Usuario\Desktop\Exercicio_10\obj\Debug\Exercicio_10.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Exercicio_10\obj\Debug\Exercicio_10.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Exercicio_10\obj\Debug\Exercicio_10.exe
+C:\Users\Usuario\Desktop\Exercicio_10\obj\Debug\Exercicio_10.pdb
+D:\Programaçao de algoritimos\Exercicio_10\bin\Debug\Exercicio_10.exe.config
+D:\Programaçao de algoritimos\Exercicio_10\bin\Debug\Exercicio_10.exe
+D:\Programaçao de algoritimos\Exercicio_10\bin\Debug\Exercicio_10.pdb
+D:\Programaçao de algoritimos\Exercicio_10\obj\Debug\Exercicio_10.csproj.AssemblyReference.cache
+D:\Programaçao de algoritimos\Exercicio_10\obj\Debug\Exercicio_10.csproj.CoreCompileInputs.cache
+D:\Programaçao de algoritimos\Exercicio_10\obj\Debug\Exercicio_10.exe
+D:\Programaçao de algoritimos\Exercicio_10\obj\Debug\Exercicio_10.pdb
